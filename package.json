@@ -1,7 +1,7 @@
 {
-  "name": "anafiya",
+  "name": "models",
   "version": "1.0.0",
-  "description": "MERN E-commerce Islamic Shop",
+  "description": "MERN E-commerce  Shop models",
   "main": "server",
   "type": "module",
   "scripts": {
@@ -15,9 +15,9 @@
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
   "keywords": [
-    "anafiya"
+    "models"
   ],
-  "author": "Hasib Molla",
+  "author": "dev",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
